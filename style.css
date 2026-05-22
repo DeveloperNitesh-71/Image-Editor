@@ -136,7 +136,7 @@ main section .right .filter{
 }
 
 canvas {
-    background-color: red;
+    display: none;
     max-width: 90%;
     max-height: 80vh;
 }
